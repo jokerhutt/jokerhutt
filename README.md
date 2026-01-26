@@ -25,7 +25,9 @@ I am a 22 year old developer specializing in full stack development. Always open
 - **Frameworks/Engines**: LibGDX, Godot
 
 ### DevOps & Tools
-- **Cloud**: Google Cloud, Docker
+- **API**: OpenAPI
+- **DB**: Liquibase, Alembic
+- **Cloud**: Google Cloud, AWS, Docker
 - **Testing**: Test Containers
 
 ## 
