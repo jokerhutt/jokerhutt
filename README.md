@@ -9,7 +9,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ##
-I am a 22 year old developer specializing in full stack development. Always open to collaborate and learn, feel free to hit me up! 
+I am a 23 year old developer specializing in full stack development. Always open to collaborate and learn, feel free to hit me up! 
 
 ## Tech Stack
 
@@ -18,7 +18,7 @@ I am a 22 year old developer specializing in full stack development. Always open
 
 ### Backend
 - **Languages**: Java, Kotlin, Python
-- **Frameworks**: Spring Boot
+- **Frameworks**: Spring Boot, FastAPI
 - **Databases**: PostgreSQL, MySQL
 
 ### Game Development
